@@ -1,3 +1,5 @@
 # Typing-Test
-Python code,
-Very Simple typing test via python (only code)
+Python code
+
+Very Simple typing test projects for all languages (only code)
+
