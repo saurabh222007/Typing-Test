@@ -1,2 +1,3 @@
 # Typing-Test
-simple typing test via python (only code)
+Python code,
+Very Simple typing test via python (only code)
